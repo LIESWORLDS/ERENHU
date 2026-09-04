@@ -1,0 +1,10 @@
+{
+  "name": "eren ka bomber",
+  "version": "1.0.0",
+  "description": "Ultimate OTP Bomber API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
